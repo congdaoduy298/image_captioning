@@ -18,4 +18,6 @@ IMAGE CAPTIONING WITH KERAS
 
 # Reference : 
 https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
+
+
 https://nttuan8.com/bai-15-ung-dung-them-mo-ta-cho-anh-image-captioning/
